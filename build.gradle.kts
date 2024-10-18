@@ -1,5 +1,6 @@
 plugins {
-    kotlin("jvm") version "2.0.0"
+    kotlin("jvm") version "2.0.21"
+    kotlin("plugin.power-assert") version "2.0.21"
 }
 
 group = "org.example"
